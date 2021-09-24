@@ -10,4 +10,10 @@ For run this project You need to follow this step:
 
 5. And I hope you will see output in your browser..
 
+
+Live link here : https://evidentbdevaluation.netlify.app
+
+
+Please see 'PleaseRead.docx' which I add in repo..
+
         Thank you.
