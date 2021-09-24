@@ -1,9 +1,13 @@
-In the project directory, you can run:
+For run this project You need to follow this step:
 
-### `npm start`
+1. Download or clone this repository.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+2. Open it in your code editor.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+3. Just command 'npm install'
+
+4. Now command 'npm start'
+
+5. And I hope you will see output in your browser..
+
+        Thank you.
